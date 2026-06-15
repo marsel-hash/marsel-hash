@@ -37,10 +37,18 @@ Just a hobbyist who enjoys building things — whether it's a small automation s
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&card_width=400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="200">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&custom_title=Stats" height="160">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160">
+
 </div>
----
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marsel-hash&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="860">
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=marsel-hash&style=flat-square&color=555555" alt="profile views">
