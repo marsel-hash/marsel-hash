@@ -40,7 +40,6 @@ Just a hobbyist who enjoys building things — whether it's a small automation s
   <img src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&card_width=400" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="200">
 </div>
-
 ---
 
 <div align="center">
