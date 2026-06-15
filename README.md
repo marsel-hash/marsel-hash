@@ -9,8 +9,8 @@
 ### 🚀 About Me
 I am a tech enthusiast and developer who loves building things from scratch, whether it's software automation, interactive web UIs, or tweaking hardware microcontrollers. I enjoy solving problems through efficient code and optimizing systems.
 
-- 🔭 **Current Project:** Developing custom Python scripts and automation tools, anf tech gadgets
-- ⚡ **Tech Interet:** Web Development, Automation, Microcontrollers (Arduino/ESP32), Designing PCB, and System Modding.
+- 🔭 **Current Project:** Developing custom Python scripts and automation tools, and tech gadgets.
+- ⚡ **Tech Interest:** Web Development, Automation, Microcontrollers (Arduino/ESP32), Designing PCB, and System Modding.
 - 🛠️ **Motto:** Code it, build it, break it, fix it.
 
 ---
@@ -18,8 +18,9 @@ I am a tech enthusiast and developer who loves building things from scratch, whe
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Programming Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -38,8 +39,8 @@ I am a tech enthusiast and developer who loves building things from scratch, whe
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Marsel's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Marsel's GitHub Stats" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195">
 </p>
 
 ---
