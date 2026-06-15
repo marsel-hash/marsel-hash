@@ -16,17 +16,9 @@
 
 ### About
 
-Builder at core. I work across the stack — from bare-metal microcontrollers and custom PCB layouts to web UIs and automation scripts. I care about how things work underneath, not just that they do.
+Just a hobbyist who enjoys building things — whether it's a small automation script, a web UI, or soldering components onto a custom PCB. Nothing serious, just curiosity and free time.
 
 > *Code it. Build it. Break it. Fix it.*
-
----
-
-### Current focus
-
-- `ESP32 + GRBL` — 3-axis CNC machine, custom PCB (EasyEDA → JLCPCB)
-- `Python` — automation tooling & scripting
-- `Web` — Tailwind CSS, JS, interactive UIs
 
 ---
 
@@ -36,7 +28,7 @@ Builder at core. I work across the stack — from bare-metal microcontrollers an
 |---|---|
 | Languages | Python · JavaScript · C++ · HTML · CSS |
 | Hardware | ESP32 · Arduino · DM542 stepper drivers |
-| PCB | EasyEDA · JLCPCB · KiCad |
+| PCB | EasyEDA · JLCPCB |
 | Web | Tailwind CSS · Vanilla JS |
 | Tools | Git · VS Code · Linux |
 
