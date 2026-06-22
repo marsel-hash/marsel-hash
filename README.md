@@ -18,8 +18,6 @@
 
 Just a hobbyist who enjoys building things — whether it's a small automation script, a web UI, or soldering components onto a custom PCB. Nothing serious, just curiosity and free time.
 
-> *Code it. Build it. Break it. Fix it.*
-
 ---
 
 ### Stack
