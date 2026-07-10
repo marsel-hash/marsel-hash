@@ -1,4 +1,8 @@
-```console
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=marsel%40linux%3A~%24+whoami;Automation+%7C+Embedded+Systems+%7C+PCB+Design;Welcome+to+my+GitHub."/>
+</p>
+
+```text
 ┌──(marsel㉿github)-[~]
 └─$ ssh github.com
 
@@ -26,19 +30,20 @@ Last login: Today
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
 
-────────────────────────────────────────
+────────────────────────────────────────────
 
 User      : Marsel
-Host      : github.com
-OS        : Arch Linux
+Username  : marsel-hash
+OS        : Arch Linux x86_64
 Shell     : bash
 Editor    : VS Code
 Languages : Python, JavaScript, C++
-Hardware  : ESP32, Arduino
+Hardware  : ESP32 • Arduino
 PCB CAD   : EasyEDA
-Focus     : Robotics • Automation • Web
+Web Stack : Tailwind CSS
+Focus     : Robotics • Automation • Embedded
 
-────────────────────────────────────────
+────────────────────────────────────────────
 
 ┌──(marsel㉿github)-[~]
 └─$ tree ~/projects
@@ -47,7 +52,8 @@ projects
 ├── robotics
 │   ├── esp32-robot
 │   ├── rc-controller
-│   └── digicam-esp32
+│   ├── digicam-esp32
+│   └── autonomous-car
 │
 ├── web
 │   ├── robot-depul
@@ -62,31 +68,27 @@ projects
     ├── automation.py
     └── deploy.sh
 
-6 directories, 12 files
-
 ┌──(marsel㉿github)-[~]
 └─$ cat about.txt
 
-Just a hobbyist who enjoys building things.
+A hobbyist developer from Indonesia.
 
-• Embedded Systems
-• PCB Design
-• Linux
-• Web Development
-• Automation
+I enjoy building robotics, embedded systems,
+automation tools, custom PCBs,
+and modern web applications.
 
-I enjoy turning ideas into working hardware.
+Learning by building.
 
 ┌──(marsel㉿github)-[~]
 └─$ git status
 
 On branch main
 
-✔ Learning
-✔ Building
-✔ Breaking
-✔ Fixing
-✔ Shipping
+✓ Learning
+✓ Building
+✓ Breaking
+✓ Fixing
+✓ Shipping
 
 nothing to commit, working tree clean
 
