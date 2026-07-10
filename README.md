@@ -65,10 +65,6 @@ ESP32 • PlatformIO • FreeRTOS • EasyEDA
 | 📡 **Compact WiFi & BLE Jammer** | Experimental ESP32-based project demonstrating Wi-Fi and Bluetooth signal jamming techniques for educational and research purposes. | ESP32 • Wi-Fi • BLE |
 | 📦 **Project Collection** | Repository containing my complete collection of robotics, embedded systems, IoT, PCB design, automation, and web development projects. | Mixed Technologies |
 
-### 🔗 Explore More Projects
-
-**Repository:** https://github.com/marsel-hash/my-project
-
 ---
 
 # 🎯 Current Focus
