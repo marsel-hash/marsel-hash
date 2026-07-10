@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=80&lines=marsel%40linux%3A~%24+whoami;Automation+%7C+Embedded+Systems+%7C+PCB+Design;Welcome+to+my+GitHub."/>
+</p>
 ```console
 ┌──(marsel㉿github)-[~]
 └─$ ssh github.com
