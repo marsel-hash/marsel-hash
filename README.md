@@ -3,48 +3,32 @@
 </p>
 
 ```text
-marsel@github:~$ fastfetch
+               /\                 marsel@github ──────────────────────────────────────────
+              /  \                OS          : Arch Linux x86_64
+             /\   \               Role        : Embedded Systems Developer
+            /      \              Portfolio   : [https://imtryintobesane.pages.dev/](https://imtryintobesane.pages.dev/)
+           /   ,,   \             
+          /   |  |   \            Languages   : Python • C++ • JavaScript
+         /   /|  |\   \           Frameworks  : Tailwind CSS • Vite
+        /   / |  | \   \          Hardware    : ESP32 • Arduino
+       /   /  |  |  \   \         PCB Design  : EasyEDA
+      /   /   |  |   \   \        
+     / _ /_   |  |   _\ _ \       Specialization ─────────────────────────────────────────
+    / (_)  \  |  |  /  (_) \      • Embedded Systems       • Automation
+   /________\_|  |_/________\     • Robotics               • PCB Design
+  /                          \    • Internet of Things (IoT)
+ /                            \   
+                                  Development Workflow ───────────────────────────────────
+                                  • Firmware Development   • Web Dashboard Development
+                                  • Hardware Prototyping   • System Integration
+                                  • PCB Design
 
-────────────────────────────────────────────────────────────
+                                  Current Interests ──────────────────────────────────────
+                                  • Autonomous Robotics    • Edge AI
+                                  • Embedded Linux         • Open Source
+                                  • Computer Vision
 
-Name        : Marsel
-Location    : Indonesia
-Role        : Embedded Systems Developer
-
-Languages   : Python • C++ • JavaScript
-Frameworks  : Tailwind CSS • Vite
-Hardware    : ESP32 • Arduino
-PCB Design  : EasyEDA
-
-Specialization
-──────────────
-• Embedded Systems
-• Robotics
-• Internet of Things (IoT)
-• Automation
-• PCB Design
-
-Development Workflow
-────────────────────
-• Firmware Development
-• Hardware Prototyping
-• PCB Design
-• Web Dashboard Development
-• System Integration
-
-Current Interests
-─────────────────
-• Autonomous Robotics
-• Embedded Linux
-• Computer Vision
-• Edge AI
-• Open Source
-
-Engineering Principles
-──────────────────────
-• Build reliable systems
-• Write maintainable code
-• Design with simplicity
-• Learn continuously
-
-────────────────────────────────────────────────────────────
+                                  Engineering Principles ─────────────────────────────────
+                                  • Build reliable systems • Design with simplicity
+                                  • Write maintainable code• Learn continuously
+──────────────────────────────────────────────────────────────────────────────────────────
