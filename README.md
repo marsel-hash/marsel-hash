@@ -99,29 +99,11 @@ I enjoy designing systems that integrate hardware and software seamlessly, with 
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marsel-hash&theme=github_dark" width="100%">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marsel-hash&theme=github_dark" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marsel-hash&theme=github_dark" width="49%">
-</p>
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marsel-hash&theme=github_dark" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marsel-hash&theme=github_dark&utcOffset=7" width="49%">
 </p>
 
 ---
-
-## Philosophy
-
-> Good engineering is not about writing more code.  
-> It is about building systems that are reliable, maintainable, and useful.
-
----
-
-<div align="center">
 
 ### Thanks for visiting.
 
