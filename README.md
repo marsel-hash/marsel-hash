@@ -50,12 +50,3 @@ Engineering Principles
 
 ────────────────────────────────────────────────────────────
 ```
-
-## About
-
-I am an embedded systems developer with a strong interest in robotics, automation, and IoT.
-
-My projects integrate hardware and software using ESP32-based platforms, custom PCB design, and modern web technologies. I enjoy designing complete systems—from firmware and electronics to user interfaces and cloud-connected applications.
-
-I continuously expand my knowledge through hands-on engineering projects and open-source development.
-````
