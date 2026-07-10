@@ -1,76 +1,95 @@
-```bash
-marsel@linux:~$ whoami
-Marsel
+```console
+┌──(marsel㉿github)-[~]
+└─$ ssh github.com
 
-marsel@linux:~$ cat role.txt
-Automation
-Embedded Systems
-PCB Design
-Web Development
+Welcome to GitHub.
+Last login: Today
 
-marsel@linux:~$ cat about.txt
-Just a hobbyist who enjoys building things —
-from automation scripts and web interfaces
-to custom PCBs and embedded systems.
+┌──(marsel㉿github)-[~]
+└─$ neofetch
 
-Nothing serious.
-Just curiosity, experiments, and free time.
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:
+             `/:-:++oooo+:
+            `/++++/+++++++:
+           `/++++++++++++++:
+          `/+++ooooooooooooo/
+         ./ooosssso++osssssso+
+        .oossssso-````/ossssss+
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
 
-marsel@linux:~$ ls skills/
+────────────────────────────────────────
 
-languages/
-├── Python
-├── JavaScript
-├── C++
-├── HTML
-└── CSS
+User      : Marsel
+Host      : github.com
+OS        : Arch Linux
+Shell     : bash
+Editor    : VS Code
+Languages : Python, JavaScript, C++
+Hardware  : ESP32, Arduino
+PCB CAD   : EasyEDA
+Focus     : Robotics • Automation • Web
 
-hardware/
-├── ESP32
-├── Arduino
-└── DM542
+────────────────────────────────────────
 
-pcb/
-├── EasyEDA
-└── JLCPCB
+┌──(marsel㉿github)-[~]
+└─$ tree ~/projects
 
-web/
-├── Tailwind CSS
-└── Vanilla JS
+projects
+├── robotics
+│   ├── esp32-robot
+│   ├── rc-controller
+│   └── digicam-esp32
+│
+├── web
+│   ├── robot-depul
+│   ├── voting-system
+│   └── portfolio
+│
+├── pcb
+│   ├── esp32-board
+│   └── sensor-module
+│
+└── scripts
+    ├── automation.py
+    └── deploy.sh
 
-tools/
-├── Git
-├── VS Code
-└── Linux
+6 directories, 12 files
 
-marsel@linux:~$ uptime
-Building random projects since 2021
+┌──(marsel㉿github)-[~]
+└─$ cat about.txt
 
-marsel@linux:~$ echo $STATUS
-Online
-```
+Just a hobbyist who enjoys building things.
 
----
+• Embedded Systems
+• PCB Design
+• Linux
+• Web Development
+• Automation
 
-<div align="center">
+I enjoy turning ideas into working hardware.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marsel-hash&theme=github_dark" width="850">
+┌──(marsel㉿github)-[~]
+└─$ git status
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marsel-hash&theme=github_dark" height="180">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marsel-hash&theme=github_dark" height="180">
+On branch main
 
-</div>
+✔ Learning
+✔ Building
+✔ Breaking
+✔ Fixing
+✔ Shipping
 
-```bash
-marsel@linux:~$ neofetch
+nothing to commit, working tree clean
 
-OS: Linux
-Editor: VS Code
-Languages: Python, JavaScript, C++
-Hardware: ESP32, Arduino
-PCB: EasyEDA
-Focus: Automation & Embedded Systems
-
-marsel@linux:~$ exit
-logout
+┌──(marsel㉿github)-[~]
+└─$
 ```
