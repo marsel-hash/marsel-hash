@@ -10,7 +10,8 @@ Building hardware and software with a passion for embedded systems, robotics, an
 
 <br>
 
-<a href="https://imtryintobesane.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a><a href="https://github.com/marsel-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://imtryintobesane.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+<a href="https://github.com/marsel-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
@@ -50,20 +51,23 @@ ESP32 • PlatformIO • FreeRTOS • EasyEDA
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Project Showcase
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 **Robot Depul** | Modern robotics extracurricular website with responsive design. | Vite • Tailwind CSS |
-| 📷 **ESP32 Digital Camera** | Compact ESP32 camera capable of capturing photos and video. | ESP32 • OV2640 |
-| 🎮 **ESP32 RC Controller** | Long-range wireless controller for robotics applications. | ESP32 • NRF24L01 |
-| 🚗 **Autonomous Robot** | Autonomous robotic platform integrating sensors and automation. | ESP32 • C++ |
-| 🗳️ **Voting System** | Secure web-based voting application. | JavaScript • Supabase |
-| 📦 **My Projects** | Collection of robotics, embedded systems, PCB, automation, and web development projects. | Mixed |
+| 🤖 **Robot Depul** | Modern robotics extracurricular website featuring a responsive interface and content management system. | Vite • Tailwind CSS • Supabase |
+| 📷 **ESP32 Digital Camera** | Compact ESP32-based digital camera capable of capturing photos and videos for portable imaging projects. | ESP32 • OV2640 |
+| 🎮 **ESP32 RC Controller** | Long-range wireless controller designed for robotics and remote-controlled applications. | ESP32 • NRF24L01 |
+| 🚗 **Autonomous Robot** | Autonomous robotic platform integrating sensors, embedded systems, and intelligent navigation. | ESP32 • C++ |
+| 🗳️ **Voting System** | Secure web-based voting application with authentication and a responsive user interface. | JavaScript • Supabase |
+| 🍽️ **Smart Kitchen Monitoring and Automation System** | IoT-based smart kitchen monitoring system that detects LPG gas concentration, monitors temperature and humidity, automatically controls an exhaust fan, and integrates with Blynk and Telegram for real-time monitoring and alert notifications. | ESP32 • IoT • Blynk • Telegram |
+| 🎬 **Cinemathe-Que** | Personal entertainment tracker that helps users organize movies and TV shows into watched, watching, and watchlist collections. | JavaScript • Web |
+| 📡 **Compact WiFi & BLE Jammer** | Experimental ESP32-based project demonstrating Wi-Fi and Bluetooth signal jamming techniques for educational and research purposes. | ESP32 • Wi-Fi • BLE |
+| 📦 **Project Collection** | Repository containing my complete collection of robotics, embedded systems, IoT, PCB design, automation, and web development projects. | Mixed Technologies |
 
-### 🔗 Repository Collection
+### 🔗 Explore More Projects
 
-➡️ **https://github.com/marsel-hash/my-project**
+**Repository:** https://github.com/marsel-hash/my-project
 
 ---
 
@@ -115,3 +119,25 @@ ESP32 • PlatformIO • FreeRTOS • EasyEDA
 - AI for Embedded Systems
 
 ---
+
+<div align="center">
+
+### 📫 Connect With Me
+
+<a href="https://imtryintobesane.pages.dev">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/marsel-hash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building reliable systems, one project at a time."*
+
+</div>
