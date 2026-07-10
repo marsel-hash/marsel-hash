@@ -1,8 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=marsel%40linux%3A~%24+whoami;Automation+%7C+Embedded+Systems+%7C+PCB+Design;Welcome+to+my+GitHub."/>
-</p>
-
-```text
+```console
 ┌──(marsel㉿github)-[~]
 └─$ ssh github.com
 
@@ -30,21 +26,19 @@ Last login: Today
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
 
-──────────────────────────────────────────────
+────────────────────────────────────────
 
 User      : Marsel
-Username  : marsel-hash
-OS        : Arch Linux x86_64
-Kernel    : 6.x
+Host      : github.com
+OS        : Arch Linux
 Shell     : bash
 Editor    : VS Code
 Languages : Python, JavaScript, C++
 Hardware  : ESP32, Arduino
 PCB CAD   : EasyEDA
-Web Stack : Tailwind CSS
-Focus     : Robotics • Automation • Embedded
+Focus     : Robotics • Automation • Web
 
-──────────────────────────────────────────────
+────────────────────────────────────────
 
 ┌──(marsel㉿github)-[~]
 └─$ tree ~/projects
@@ -68,17 +62,20 @@ projects
     ├── automation.py
     └── deploy.sh
 
-6 directories, 8 files
+6 directories, 12 files
 
 ┌──(marsel㉿github)-[~]
 └─$ cat about.txt
 
-I'm a hobbyist developer who enjoys building
-automation tools, embedded systems,
-custom PCBs, and web applications.
+Just a hobbyist who enjoys building things.
 
-Always learning.
-Always experimenting.
+• Embedded Systems
+• PCB Design
+• Linux
+• Web Development
+• Automation
+
+I enjoy turning ideas into working hardware.
 
 ┌──(marsel㉿github)-[~]
 └─$ git status
@@ -96,17 +93,3 @@ nothing to commit, working tree clean
 ┌──(marsel㉿github)-[~]
 └─$
 ```
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marsel-hash&theme=github_dark" width="850">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marsel-hash&theme=github_dark" width="420">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marsel-hash&theme=github_dark" width="420">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marsel-hash&theme=github_dark" width="420">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marsel-hash&theme=github_dark&utcOffset=7" width="420">
-
-</div>
