@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;Robotics+%7C+Automation+%7C+IoT;Designing+Hardware+and+Software;Always+Building%2C+Always+Learning"/>
 </p>
@@ -49,4 +48,3 @@ Engineering Principles
 • Learn continuously
 
 ────────────────────────────────────────────────────────────
-```
