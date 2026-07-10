@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5MGZzaWdsZTFqeHA0MjdvbzhodDlmeGRxMWQxMHQ1MzNkdm5maSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5MGZzaWdsZTFqeHA0MjdvbzhodDlmeGRxMWQxMHQ1MzNkdm5maSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif" width="350"/>
 
 # Marsel
 
