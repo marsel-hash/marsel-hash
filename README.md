@@ -2,65 +2,73 @@
 
 # Marsel
 
-### Embedded Systems Developer • Robotics • IoT • Software Engineering
+### Embedded Systems Developer • Robotics • IoT • Automation
 
-Building hardware and software with a focus on reliability, automation, and real-world applications.
+Designing hardware and software that solve real-world problems.
 
 <br>
 
 <a href="https://imtryintobesane.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
 <a href="https://github.com/marsel-hash">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a developer from Indonesia who enjoys building complete systems that combine software, electronics, and mechanical design.
+I'm an Indonesian developer passionate about building reliable embedded systems and modern software.
 
-My primary interests include embedded systems, robotics, automation, IoT, and custom PCB development. I enjoy taking projects from concept to deployment, including firmware development, hardware prototyping, and modern web interfaces.
+My work combines electronics, firmware, PCB design, and web technologies to create complete products—from prototype to deployment.
+
+I enjoy designing systems that integrate hardware and software seamlessly, with a strong interest in robotics, automation, IoT, and computer vision.
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top">
+
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- Python
+- C++
+- JavaScript
+- HTML
+- CSS
+
+</td>
+
+<td valign="top">
 
 ### Embedded
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+- ESP32
+- Arduino
+- PlatformIO
+- FreeRTOS
 
-### Development
+</td>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<td valign="top">
 
-### PCB Design
+### Tools
 
-![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square)
+- Git
+- VS Code
+- EasyEDA
+- Tailwind CSS
+- Vite
 
----
-
-## Current Focus
-
-- Embedded Systems Development
-- Robotics
-- Internet of Things
-- Automation
-- PCB Design
-- Computer Vision
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,28 +76,53 @@ My primary interests include embedded systems, robotics, automation, IoT, and cu
 
 | Project | Description |
 |---------|-------------|
-| 🤖 Robot Depul | Robotics organization website |
-| 📷 ESP32 Digital Camera | Compact ESP32-based camera system |
-| 🎮 ESP32 RC Controller | Custom long-range wireless controller |
-| 🚗 Autonomous Robot | Autonomous navigation platform |
-| 🗳️ Voting System | Modern web-based voting application |
+| 🤖 Robot Depul | Robotics organization website with a modern responsive interface. |
+| 📷 ESP32 Digital Camera | Compact camera built around the ESP32 platform. |
+| 🎮 ESP32 RC Controller | Wireless controller for robotics applications. |
+| 🚗 Autonomous Robot | Robotics platform with autonomous navigation. |
+| 🗳️ Voting System | Secure web-based voting application. |
+
+---
+
+## Current Focus
+
+- Embedded Systems
+- Robotics
+- Internet of Things
+- Automation
+- PCB Design
+- Computer Vision
+- Edge AI
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marsel-hash&theme=github_dark" width="100%">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marsel-hash&theme=github_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marsel-hash&theme=github_dark" width="49%">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marsel-hash&theme=github_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marsel-hash&theme=github_dark&utcOffset=7" width="49%">
+</p>
+
+---
+
+## Philosophy
+
+> Good engineering is not about writing more code.  
+> It is about building systems that are reliable, maintainable, and useful.
 
 ---
 
 <div align="center">
 
-## GitHub Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marsel-hash&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsel-hash&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to learn engineering is by building real systems."*
+### Thanks for visiting.
 
 </div>
