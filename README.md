@@ -10,13 +10,7 @@ Building hardware and software with a passion for embedded systems, robotics, an
 
 <br>
 
-<a href="https://imtryintobesane.pages.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/marsel-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://imtryintobesane.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a><a href="https://github.com/marsel-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
@@ -126,20 +120,8 @@ ESP32 • PlatformIO • FreeRTOS • EasyEDA
 
 ### 📫 Connect With Me
 
-<a href="https://imtryintobesane.pages.dev">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="https://github.com/marsel-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://imtryintobesane.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a><a href="https://github.com/marsel-hash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
 ---
-
-<div align="center">
-
-*"Building reliable systems, one project at a time."*
-
-</div>
